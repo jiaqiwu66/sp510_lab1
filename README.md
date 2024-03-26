@@ -5,9 +5,9 @@ This is a profile page for Jiaqi
 
 ## How to run
 
-'''
+···
 streamlit run app.py
-'''
+···
 
 ## Lessons Learned
 
